@@ -3,8 +3,9 @@ function About() {
     <div className="card">
       <div className="card-body">
         <h2>Tentang Saya</h2>
-        <p>Halo! Nama saya <b>[Nama Kamu]</b>. Saya adalah pengembang web dengan keahlian frontend dan backend menggunakan React.js & Node.js.</p>
-        <p>Saya tertarik dalam membangun aplikasi modern yang cepat dan responsif.</p>
+        <p>Halo! Nama saya <b>Imtiyaz Durrotunasha</b>. Sejak awal, saya tertarik pada dunia pengembangan web — kini saya mengembangkan aplikasi modern dengan React.js untuk frontend dan Node.js di sisi backend.
+Saya menikmati tantangan membangun sistem yang efisien, elegan, dan responsif.</p>
+       
       </div>
     </div>
   );
