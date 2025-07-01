@@ -8,7 +8,8 @@ import Blog from './pages/Blog';
 function App() {
   return (
     <Router>
-      <header className="bg-dark text-white py-3">
+      <header className="bg-success text-white py-3">
+
         <div className="container d-flex justify-content-between align-items-center">
           <h2 className="mb-0">Portofolio</h2>
           <nav>
@@ -35,7 +36,7 @@ function App() {
 
       <footer className="bg-light text-center text-muted py-3 mt-auto">
         <hr />
-        <p className="mb-0">© 2025 Web Portfolio – Dibuat oleh Mas Ganteng</p>
+        <p className="mb-0">© 2025 Imtiyas Durrotunasha</p>
       </footer>
     </Router>
   );
