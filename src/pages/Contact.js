@@ -17,7 +17,7 @@ function Contact() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const res = await fetch('http://localhost:5000/api/messages', {
+    const res = await fetch('https://f7631c30-ff9f-4769-87cf-adb51939fa1e-00-250co6kctf2g6.sisko.replit.dev/api/messages', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(form)
