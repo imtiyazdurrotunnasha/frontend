@@ -7,11 +7,7 @@ function Home() {
         <a href="#portfolio" className="btn btn-outline-primary mt-3">Lihat Portofolio</a>
       </div>
       <div className="col-md-6 text-center">
-        <img
-          src="https://via.placeholder.com/250"
-          alt="Foto Profil"
-          className="rounded-circle img-fluid shadow"
-        />
+       
       </div>
     </div>
   );
