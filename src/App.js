@@ -11,7 +11,7 @@ function App() {
       <header className="bg-success text-white py-3">
 
         <div className="container d-flex justify-content-between align-items-center">
-          <h2 className="mb-0">Portofolio</h2>
+          <h2 className="mb-0">Imtiyaz Frondend</h2>
           <nav>
             <ul className="nav">
               <li className="nav-item"><Link className="nav-link text-white" to="/">Home</Link></li>
